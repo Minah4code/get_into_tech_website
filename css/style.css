@@ -141,7 +141,7 @@ address {
   list-style-type:none;
 }
 .techimg{
-  width: 400px;
+  width: fit content;
   height: 400px;
   border-bottom-left-radius: 50%;
   padding-right: 10px;
